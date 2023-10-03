@@ -1,0 +1,39 @@
+*{
+    background: url("androidbot.png") no-repeat fixed center;
+    align-items: center;
+    background-color: black;
+    text-align: center;
+}
+.area{
+margin: 40dvh auto;
+}
+.prompt{
+border-radius: 10dvh;
+border-color: rgb(25, 5, 25);
+width: 70dvh;
+height: 10dvh;
+text-align: start;
+cursor: text;
+color: rgb(247, 230, 230);
+outline: none;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-display: start;
+font-size: larger;
+}
+.header{
+    align-items: end;
+    text-align: end;
+    word-spacing: 2dvh;
+}
+.link{
+    text-decoration: none;
+    color: #f00000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.link:hover{
+    text-decoration: none;
+    color: #f00000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: italic;
+    font-size: 4dvh;
+}
